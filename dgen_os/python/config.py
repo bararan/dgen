@@ -1,7 +1,5 @@
 import os
 import multiprocessing
-# import pyarrow as pa
-# import pyarrow.parquet as pq
 
 #==============================================================================
 #   get postgres connection parameters
