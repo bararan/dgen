@@ -38,3 +38,15 @@ python/pg_params*.json
 
 # Unchanging reference documents that are large enough to warrant not committing
 timeslice_8760_wH17.csv
+
+dgen_os/python/*.xlsx
+db_dumps/*
+dgen_os/input_data/load_growth/aeo_load_growth_projections_nerc_2022.csv
+.gitignore
+.gitignore
+aeo_load_growth_projections_nerc_2019.csv
+aeo_load_growth_projections_nerc_2022.csv
+dgen_os/input_data/load_growth/srvc_2022.csv
+*.sql
+*.pdf
+.cache_ggshield
